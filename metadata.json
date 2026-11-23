@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "An intelligent AI workspace for natural conversation, content creation, coding assistance, and document & image understanding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
